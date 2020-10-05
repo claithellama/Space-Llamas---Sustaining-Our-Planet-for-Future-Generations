@@ -1,0 +1,59 @@
+
+
+body {
+background-image: url("forestBg12.jpg");
+background-attachment: fixed;
+background-size: cover;
+}
+h1 {
+  font-family: 'Lucida Sans Unicode', 'Lucida Grande', 'Candara', Arial, Calibri, Times, serif;
+   text-align: center;
+   color: white;
+}
+h2 {
+ font-family: 'Lucida Sans Unicode', 'Lucida Grande', 'Candara', Arial, Calibri, Times, serif;
+  text-align: center;
+  color: white;
+}
+h3 {
+  font-family: 'Lucida Sans Unicode', 'Lucida Grande', 'Candara', Arial, Calibri, Times, serif;
+  text-align: center;
+  color: white;
+}
+p {
+  font-family: 'Candara', 'Lucida Sans Unicode', 'Lucida Grande', Arial, Times, serif;
+  color: white;
+  text-align: center;
+  padding: 0px 10%;
+}
+a.minilink:link {
+  color: white;
+  text-decoration: underline;
+}
+a.minilink:visited {
+  color: white;
+  text-decoration: underline;
+}
+a.minilink:hover {
+  color: white;
+  text-decoration: underline;
+}
+a.minilink:active {
+  color: white;
+  text-decoration: underline;
+}
+btn {
+  align: center;
+  text-align: center;
+  
+}
+.eee {
+  font-family: 'Candara', 'Lucida Sans Unicode', 'Lucida Grande', Arial, Times, serif;
+  text-decoration: none;
+  color: black;
+  background-color: aliceblue;
+  padding: 1% 1%;
+}
+.caption {
+  padding: 0px 15%;
+}

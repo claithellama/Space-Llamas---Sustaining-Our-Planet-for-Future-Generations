@@ -1,0 +1,64 @@
+body {
+background-image: url("helpBg12.jpg");
+background-attachment: fixed;
+background-size: cover;
+}
+h1 {
+  font-family: 'Lucida Sans Unicode', 'Lucida Grande', 'Candara', Arial, Calibri, Times, serif;
+   text-align: center;
+   color: black;
+}
+h2 {
+  font-family: 'Lucida Sans Unicode', 'Lucida Grande', 'Candara', Arial, Calibri, Times, serif;
+  text-align: center;
+  color: black;
+}
+h3 {
+  font-family: 'Lucida Sans Unicode', 'Lucida Grande', 'Candara', Arial, Calibri, Times, serif;
+  text-align: center;
+  color: black;
+}
+p {
+  font-family: 'Candara', 'Lucida Sans Unicode', 'Lucida Grande', Arial, Times, serif;
+  color: black;
+  text-align: center;
+  padding: 0px 10%;
+
+}
+ul {
+  font-family: 'Candara', 'Lucida Sans Unicode', 'Lucida Grande', Arial, Times, serif;
+  color: black;
+  padding: 0px 10%;
+  float: center;
+  font-size: 120%;
+}
+
+a.minilink:link {
+  color:black;
+  text-decoration: underline;
+}
+a.minilink:visited {
+  color: black;
+  text-decoration: underline;
+}
+a.minilink:hover {
+  color:black;
+  text-decoration: underline;
+}
+a.minilink:active {
+  color: black;
+  text-decoration: underline;
+}
+
+btn {
+  align: center;
+  text-align: center;
+  
+}
+.eee {
+  font-family: 'Candara', 'Lucida Sans Unicode', 'Lucida Grande', Arial, Times, serif;
+  text-decoration: none;
+  color: black;
+  background-color: aliceblue;
+  padding: 1% 1%;
+}
